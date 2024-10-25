@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import HeroSection from './Components/HeroSection';
+import Rent4u from './Components/Rent4u';
+
 
 function App() {
   return (
-    <HeroSection />
+    <Rent4u />
   );
 }
 
