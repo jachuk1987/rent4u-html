@@ -95,6 +95,6 @@ class BookSection extends Component {
       </section>
     );
   }
-}
+};
 
 export default BookSection;
