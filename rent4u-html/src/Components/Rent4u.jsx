@@ -15,6 +15,6 @@ const Rent4u = () => {
             <Footer />
         </div>
     )
-}
+};
 
 export default Rent4u;
