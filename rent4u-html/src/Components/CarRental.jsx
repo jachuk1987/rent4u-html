@@ -229,7 +229,7 @@ class CarRental extends Component {
         </section>
       </div>
     );
-  }
+  };
 }
 
 export default CarRental;
