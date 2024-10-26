@@ -58,6 +58,6 @@ class CarSection extends Component {
       </section>
     );
   }
-}
+};
 
 export default CarSection;
