@@ -7,6 +7,6 @@ function App() {
   return (
     <Rent4u />
   );
-}
+};
 
 export default App;
