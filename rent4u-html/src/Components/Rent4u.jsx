@@ -14,7 +14,7 @@ const Rent4u = () => {
             <CarRental />
             <Footer />
         </div>
-    )
+    );
 };
 
 export default Rent4u;
