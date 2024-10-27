@@ -115,7 +115,7 @@ class HeroSection extends Component {
         </section>
       </div>
     );
-  }
+  };
 };
 
 export default HeroSection;
