@@ -94,7 +94,7 @@ class BookSection extends Component {
         </div>
       </section>
     );
-  }
+  };
 };
 
 export default BookSection;
